@@ -1,5 +1,5 @@
 #include "pico/stdlib.h"
-int main() {
+int main(){
 
 // PART A 
 
